@@ -6,3 +6,5 @@ Simples script de lavagem de dinheiro
 * mythic_notify
 * progressBars
 * esx_simpleTp
+
+*Feito por: **!ghost#3181***
