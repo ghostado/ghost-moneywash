@@ -12,10 +12,10 @@ Config.SairLavagem = vector3(1118.74, -3193.3, -40.39)
 -- policias necessarios para a lavagem
 Config.PoliciasNecessarios = 0
 
--- minimo de dinheiro sujo par lavagem
+-- minimo de dinheiro sujo para lavagem
 Config.MinimoDinheiro = 500
 
--- minimo de dinheiro sujo par lavagem
+-- maximo de dinheiro sujo para lavagem
 Config.MaximoDinheiro = 15000
 
 -- percentagem retirada da máquina durante a lavagem
