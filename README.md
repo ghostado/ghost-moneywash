@@ -1,6 +1,6 @@
 # ghost-moneywash
 
-Simples script de lavagem de dinheiro
+Simples script de lavagem de dinheiro.
 
 ## Dependências:
 * mythic_notify
