@@ -2,9 +2,10 @@
 
 Simples script de lavagem de dinheiro
 
-**Dependências:**
+## Dependências:
 * mythic_notify
 * progressBars
 * esx_simpleTp
 
-*Feito por: **!ghost#3181***
+## Feito por: 
+* **Discord:** !ghost#3181
